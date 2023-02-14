@@ -1,0 +1,28 @@
+html{
+    font-size: 20px;/*px quiero decir "pixeles":el tamaño de la fuente base es ahora 10 pixeles de altura*/
+    font-family: "Open Sansa"sans-serif;/*Este debe ser el resto del resultado que obtuviste de Google fonts*/
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+ p{
+    color:whitesmoke;
+ }
+body{
+    /*background-image:url("/imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;*/
+    background: rgba(66, 131, 206, 0.842) /*url("/imagenes/fondo.jpg") no-repeat right top fixed*/;
+}
+h3{
+    color:whitesmoke;
+}
+i{
+    color:whitesmoke;
+}
